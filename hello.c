@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main(){
 printf("hello world!");
-printh("i love china!");
+printf("i love china!");
+return 0;
 
 
 }
